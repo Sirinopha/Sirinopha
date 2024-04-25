@@ -1,6 +1,4 @@
 - Hi, I’m @Sirinopha
-- I’m interested in c++
-- I’m currently looking for learning programming more
 - Pronouns: He/Him
 
 <!---
